@@ -107,7 +107,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             actions: [
               IconButton(
-                icon: Icon(Icons.settings),
+                icon: Icon(Icons.add),
                 iconSize: 30,
                 onPressed: () {},
               ),
